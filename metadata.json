@@ -1,0 +1,5 @@
+{
+  "name": "Student Task Manager",
+  "description": "A comprehensive full-stack application for students to manage tasks, track deadlines, and organize priorities with a dashboard and calendar view.",
+  "requestFramePermissions": []
+}
